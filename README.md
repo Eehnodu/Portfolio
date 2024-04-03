@@ -20,21 +20,21 @@
 >나의 백엔드 포트폴리오 (팀 프로젝트)  
 >개발 기간: 2024.03.18 ~ 2024.04.02  
 >  
->기술 스택:
+- 기술 스택:
 >
->Back-end : Java 18
+- Back-end : Java 18
 >
->Front-end : HTML5 / CSS3 / JavaScript
+- Front-end : HTML5 / CSS3 / JavaScript
 >
->Library : BootStrap
+- Library : BootStrap
 >
->개발도구 : eclipse / VScode
+- 개발도구 : eclipse / VScode
 >
->Server : apache-tomcat-9.0.86
+- Server : apache-tomcat-9.0.86
 >
->DataBase : MySQL
+- DataBase : MySQL
 >
->협업도구 : Git / GitHub
+- 협업도구 : Git / GitHub
 >  
 >[프로젝트 상세 설명](https://github.com/2024-SMHRD-KDT-BigData-23/FitNeeds) 참고
 
