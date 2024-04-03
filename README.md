@@ -1,6 +1,5 @@
 # 우동희 포트폴리오
-> 성장하는 Back-end 개발자
-2
+> 항상 달려나가는 Back-end 개발자입니다!
 </br>
 
 ## :pushpin: Intro
