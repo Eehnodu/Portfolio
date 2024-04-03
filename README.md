@@ -23,11 +23,17 @@
 >기술 스택:
 >
 >Back-end : Java 18
+>
 >Front-end : HTML5 / CSS3 / JavaScript
+>
 >Library : BootStrap
+>
 >개발도구 : eclipse / VScode
+>
 >Server : apache-tomcat-9.0.86
+>
 >DataBase : MySQL
+>
 >협업도구 : Git / GitHub
 >  
 >[프로젝트 상세 설명](https://github.com/2024-SMHRD-KDT-BigData-23/FitNeeds) 참고
