@@ -1,5 +1,5 @@
 # 우동희 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+> 성장하는 Back-end 개발자
 2
 </br>
 
@@ -9,9 +9,10 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: Nodu00719@gmail.com
-- 블로그: 
-- 깃헙: https://github.com/Eehnodu
+- 이메일 : Nodu00719@gmail.com
+- 블로그 : 
+- 깃헙 : https://github.com/Eehnodu
+- 노션 : 
 
 </br>
 
