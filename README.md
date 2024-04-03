@@ -9,20 +9,32 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
+- 이메일: Nodu00719@gmail.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/Eehnodu
 
 </br>
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2024-SMHRD-KDT-BigData-23/FitNeeds)
->나의 프론트엔드 포트폴리오 (팀 프로젝트)  
+>나의 백엔드 포트폴리오 (팀 프로젝트)  
 >개발 기간: 2024.03.18 ~ 2024.04.02  
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>기술 스택:
+>Back-end
+>Java 18
+>Front-end
+>HTML5 / CSS3 / JavaScript
+>Library
+>BootStrap
+>개발도구
+>eclipse / VScode
+>Server
+>apache-tomcat-9.0.86
+>DataBase
+>MySQL
+>협업도구
+>Git / GitHub
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/HRGR) 참고
 
