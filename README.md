@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2024-SMHRD-KDT-BigData-23/FitNeeds)
+### 1. [Web Project](https://github.com/2024-SMHRD-KDT-BigData-23/FitNeeds)
 >FitNeeds (팀 프로젝트)  
 >개발 기간: 2024.03.18 ~ 2024.04.02  
 >  
