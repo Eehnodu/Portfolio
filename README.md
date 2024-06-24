@@ -77,7 +77,7 @@
 >[프로젝트 상세 설명](https://github.com/2024-SMHRD-KDT-BigData-23/FitNeeds) 참고
 
 
->### 1. [Web Project](https://github.com/Eehnodu/Eumakase)
+>### 2. [Web Project](https://github.com/Eehnodu/Eumakase)
 >Eumakase (팀 프로젝트)  
 >개발 기간: 2024.05.01 ~ 2024.06.20 (6주)
 >  
